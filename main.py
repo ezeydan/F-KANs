@@ -1,4 +1,4 @@
-!pip install pykan  # For PyPI installation
+pip install pykan  # For PyPI installation
 
 #Federated Learning with KAN
 
